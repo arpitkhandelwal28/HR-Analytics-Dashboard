@@ -4,7 +4,7 @@ An interactive **HR Analytics Dashboard** built with **Microsoft Power BI** to a
 
 The dashboard is designed to help HR teams quickly understand **who is leaving, where attrition is concentrated, and which employee factors are associated with higher attrition rates**.
 
-![HR Analytics Dashboard](image/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](image/Screenshot%202026-09-18%20144023.png)
 
 ## 🎯 Project Objective
 
@@ -134,7 +134,7 @@ This dashboard can be used to answer questions such as:
 
 The dashboard screenshot is available in:
 
-`image/HR_Analytics_Dashboard.png`
+`image/Screenshot%202026-09-18%20144023.png`
 
 ## 👨‍💻 Author
 
