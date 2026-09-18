@@ -83,18 +83,6 @@ These observations are descriptive findings from the dashboard and can be used a
 - **CSV** for source data
 - **GitHub** for project versioning and documentation
 
-## 📁 Repository Structure
-
-```
-HR-Analytics-Dashboard/
-│
-├── HR_Analytics.csv
-├── HR_Analytics.pbix
-├── image/
-│   └── HR_Analytics_Dashboard.png
-└── README.md
-```
-
 ## 🎛️ Dashboard Filters
 
 The dashboard includes interactive filters for:
@@ -121,28 +109,11 @@ This dashboard can be used to answer questions such as:
 7. What is the current workforce size and average tenure?
 8. What employee segments should HR investigate further?
 
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `HR_Analytics.pbix` using **Power BI Desktop**.
-3. If required, update the CSV data source path.
-4. Refresh the dataset.
-5. Use the slicers to explore different employee segments.
-6. Review the KPI cards and charts to investigate attrition patterns.
-
-## 📷 Dashboard Preview
-
-The dashboard screenshot is available in:
-
-`image/Screenshot%202026-09-18%20144023.png`
-
 ## 👨‍💻 Author
 
 **Arpit Khandelwal**
 
-B.Tech – Computer Science  
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
+[GitHub Profile](https://github.com/arpitkhandelwal28)
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and connect with me on GitHub.
